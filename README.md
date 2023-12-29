@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JacoboGarcesO.JacoboGarcesO">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JacoboGarces.JacoboGarces">
 
 # Hi 👋 I'm Jacobo! 
 I am a software developer and technical coach at [Sofka Techonologies](https://www.sofka.com.co/es/inicio/), where I specialize in software development and learning processes.
