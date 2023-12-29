@@ -5,8 +5,8 @@ I am a software developer and technical coach at [Sofka Techonologies](https://w
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jacobogarces&show_icons=true&theme=material-palenight" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jacobogarces&theme=nightowl&hide_border=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=jacobogarces&show_icons=true&theme=material-palenight" width="400" height="200">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jacobogarces&theme=nightowl&hide_border=true" width="400" height="200">
 </p>
 
 ---
